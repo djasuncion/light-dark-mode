@@ -53,3 +53,8 @@ if (currentTheme) {
     toggleDarkLightMode(true);
   }
 }
+
+// This code can be further improved by creating constants for the theme color like:
+// const DARK_THEME = 'dark'
+// const LIGHT_THEME = 'light';
+// This way, if I wanted to add new themes, it will be easier to implement.
